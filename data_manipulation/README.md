@@ -2,3 +2,15 @@ Data Manipulation:
 - Join : menggabungkan secara kolom berdasarkan index 
 - Merge : menggabungkan secara kolom dengan key pada kolom apapun
 - Concat : bisa menggabungkan secara baris (default)/kolom
+- Data Aggregation : 
+    - mean()
+    - std()
+    - median()
+    - max()
+    - min()
+    - count()
+    - nunique()
+- Aggregate Function (agg()) -> sangat berguna untuk EDA (Exploratory Data Analysis)
+    - semuanya bisa diringkas dari describe()
+- Grouping (groupby())
+- 
