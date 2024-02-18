@@ -13,4 +13,3 @@ Data Manipulation:
 - Aggregate Function (agg()) -> sangat berguna untuk EDA (Exploratory Data Analysis)
     - semuanya bisa diringkas dari describe()
 - Grouping (groupby())
-- 
